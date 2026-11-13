@@ -1,0 +1,6 @@
+ls
+ls -la /home
+cd /tmp
+foobar
+cd
+exit
