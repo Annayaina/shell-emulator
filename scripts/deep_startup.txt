@@ -1,0 +1,12 @@
+ls
+cd home
+ls
+cd user
+ls
+cd docs/projects
+ls
+cd ../..
+ls
+cd /no/such/dir
+ls /no/such/file
+exit

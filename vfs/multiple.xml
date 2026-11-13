@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vfs>
+  <dir name="home">
+    <file name="hello.txt">Hello, world!</file>
+    <file name="notes.txt">Line one
+Line two
+Line three</file>
+  </dir>
+  <dir name="etc">
+    <file name="config.conf">key=value</file>
+  </dir>
+  <file name="readme.txt">VFS root readme</file>
+</vfs>
